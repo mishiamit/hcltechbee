@@ -1,2 +1,2 @@
 # hcltechbee
-https://www.hcltechbee.com/wp-admin/admin-ajax.php
+https://careershaper.store:8080/api/tu
